@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+}
+
+#box {
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+
+    height: 400px;
+    background-color: #DCDCDC;
+    overflow-y: scroll; /* showing scrollbars */
+}
